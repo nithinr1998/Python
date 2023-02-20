@@ -1,0 +1,5 @@
+colorlist = input("Enter Colors separated by comma : ")
+mylist = colorlist.split(",")
+print(mylist)
+print(mylist[0])
+print(mylist[-1])
